@@ -79,7 +79,7 @@ I’ve completed multiple scraping projects successfully.
 Looking for a custom scraper or automation help? Feel free to contact me for freelance or collaboration!
 
 - 📧 Email: [shahikram295@gmail.com](mailto:shahikram295@gmail.com)
-- 💻 GitHub: [github.com/IkramDev512](https://github.com/IkramDev512)
+- 💻 GitHub: [https://github.com/Ikram-Ul-Hassan](https://github.com/Ikram-Ul-Hassan)
 
 
 📄 License
